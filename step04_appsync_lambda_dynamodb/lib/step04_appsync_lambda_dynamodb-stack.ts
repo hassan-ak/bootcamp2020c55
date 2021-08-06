@@ -46,6 +46,10 @@ export class Step04AppsyncLambdaDynamodbStack extends cdk.Stack {
       typeName: "Mutation",
       fieldName: "addProduct",
     });
+    lambda_dataSource.createResolver({
+      typeName: "Mutation",
+      fieldName: "deleteProduct",
+    });
 
     const productTable = new dynamo.Table(this, "ProductTable", {
       tableName: "Products",
