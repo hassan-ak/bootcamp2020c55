@@ -1,4 +1,4 @@
-# Dynamo-db with AppSync Lambda
+# Step04 Dynamo-db with AppSync Lambda
 
 ## Steps to compile the code
 
