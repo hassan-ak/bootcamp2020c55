@@ -1,6 +1,6 @@
-# bootcamp2020c55 - AWS AppSync And AWS DynamoDB
+# bootcamp2020c55 - AWS AppSync
 
-## AppSync, DynamoDB and Apollo Client
+## AWS AppSync And AWS DynamoDB
 
 ## Class Notes: -
 
